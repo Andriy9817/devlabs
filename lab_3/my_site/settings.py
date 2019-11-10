@@ -52,7 +52,7 @@ ROOT_URLCONF = 'my_site.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/home/bilevych/Documents/BalianAA/lab_3/main/template'],
+        'DIRS': ['main/template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
