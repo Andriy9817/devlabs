@@ -1,0 +1,196 @@
+INFO 2019-11-10 22:40:07,837 root : Server unavailable. Server time: 2019-11-10T20:40:07.792
+INFO 2019-11-10 22:40:07,837 root : Requested page : /health/
+INFO 2019-11-10 22:40:07,837 root : Response contains:
+INFO 2019-11-10 22:40:07,837 root : Key: date, Value: 2019-11-10T20:40:07.792
+INFO 2019-11-10 22:40:07,837 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:40:07,837 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:40:07,837 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:41:07,925 root : Server unavailable. Server time: 2019-11-10T20:41:07.881
+INFO 2019-11-10 22:41:07,925 root : Requested page : /health/
+INFO 2019-11-10 22:41:07,925 root : Response contains:
+INFO 2019-11-10 22:41:07,925 root : Key: date, Value: 2019-11-10T20:41:07.881
+INFO 2019-11-10 22:41:07,925 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:41:07,925 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:41:07,925 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:42:08,033 root : Server unavailable. Server time: 2019-11-10T20:42:07.989
+INFO 2019-11-10 22:42:08,033 root : Requested page : /health/
+INFO 2019-11-10 22:42:08,034 root : Response contains:
+INFO 2019-11-10 22:42:08,034 root : Key: date, Value: 2019-11-10T20:42:07.989
+INFO 2019-11-10 22:42:08,034 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:42:08,034 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:42:08,034 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:43:08,146 root : Server unavailable. Server time: 2019-11-10T20:43:08.096
+INFO 2019-11-10 22:43:08,149 root : Requested page : /health/
+INFO 2019-11-10 22:43:08,149 root : Response contains:
+INFO 2019-11-10 22:43:08,149 root : Key: date, Value: 2019-11-10T20:43:08.096
+INFO 2019-11-10 22:43:08,149 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:43:08,149 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:43:08,149 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:44:08,253 root : Server unavailable. Server time: 2019-11-10T20:44:08.209
+INFO 2019-11-10 22:44:08,261 root : Requested page : /health/
+INFO 2019-11-10 22:44:08,261 root : Response contains:
+INFO 2019-11-10 22:44:08,261 root : Key: date, Value: 2019-11-10T20:44:08.209
+INFO 2019-11-10 22:44:08,261 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:44:08,261 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:44:08,261 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:45:08,365 root : Server unavailable. Server time: 2019-11-10T20:45:08.323
+INFO 2019-11-10 22:45:08,365 root : Requested page : /health/
+INFO 2019-11-10 22:45:08,365 root : Response contains:
+INFO 2019-11-10 22:45:08,365 root : Key: date, Value: 2019-11-10T20:45:08.323
+INFO 2019-11-10 22:45:08,365 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:45:08,365 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:45:08,365 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:46:08,475 root : Server unavailable. Server time: 2019-11-10T20:46:08.429
+INFO 2019-11-10 22:46:08,485 root : Requested page : /health/
+INFO 2019-11-10 22:46:08,485 root : Response contains:
+INFO 2019-11-10 22:46:08,485 root : Key: date, Value: 2019-11-10T20:46:08.429
+INFO 2019-11-10 22:46:08,485 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:46:08,485 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:46:08,485 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:47:08,545 root : Server unavailable. Server time: 2019-11-10T20:47:08.503
+INFO 2019-11-10 22:47:08,545 root : Requested page : /health/
+INFO 2019-11-10 22:47:08,546 root : Response contains:
+INFO 2019-11-10 22:47:08,546 root : Key: date, Value: 2019-11-10T20:47:08.503
+INFO 2019-11-10 22:47:08,546 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:47:08,546 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:47:08,546 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:48:08,641 root : Server unavailable. Server time: 2019-11-10T20:48:08.598
+INFO 2019-11-10 22:48:08,642 root : Requested page : /health/
+INFO 2019-11-10 22:48:08,642 root : Response contains:
+INFO 2019-11-10 22:48:08,642 root : Key: date, Value: 2019-11-10T20:48:08.598
+INFO 2019-11-10 22:48:08,642 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:48:08,642 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:48:08,642 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:49:08,725 root : Server unavailable. Server time: 2019-11-10T20:49:08.681
+INFO 2019-11-10 22:49:08,725 root : Requested page : /health/
+INFO 2019-11-10 22:49:08,725 root : Response contains:
+INFO 2019-11-10 22:49:08,725 root : Key: date, Value: 2019-11-10T20:49:08.681
+INFO 2019-11-10 22:49:08,725 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:49:08,725 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:49:08,725 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:50:08,834 root : Server unavailable. Server time: 2019-11-10T20:50:08.791
+INFO 2019-11-10 22:50:08,835 root : Requested page : /health/
+INFO 2019-11-10 22:50:08,835 root : Response contains:
+INFO 2019-11-10 22:50:08,835 root : Key: date, Value: 2019-11-10T20:50:08.791
+INFO 2019-11-10 22:50:08,835 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:50:08,835 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:50:08,836 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:51:08,945 root : Server unavailable. Server time: 2019-11-10T20:51:08.904
+INFO 2019-11-10 22:51:08,946 root : Requested page : /health/
+INFO 2019-11-10 22:51:08,946 root : Response contains:
+INFO 2019-11-10 22:51:08,946 root : Key: date, Value: 2019-11-10T20:51:08.904
+INFO 2019-11-10 22:51:08,946 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:51:08,946 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:51:08,946 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:52:09,047 root : Server unavailable. Server time: 2019-11-10T20:52:09.001
+INFO 2019-11-10 22:52:09,048 root : Requested page : /health/
+INFO 2019-11-10 22:52:09,048 root : Response contains:
+INFO 2019-11-10 22:52:09,048 root : Key: date, Value: 2019-11-10T20:52:09.001
+INFO 2019-11-10 22:52:09,048 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:52:09,048 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:52:09,048 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:53:09,153 root : Server unavailable. Server time: 2019-11-10T20:53:09.109
+INFO 2019-11-10 22:53:09,154 root : Requested page : /health/
+INFO 2019-11-10 22:53:09,154 root : Response contains:
+INFO 2019-11-10 22:53:09,154 root : Key: date, Value: 2019-11-10T20:53:09.109
+INFO 2019-11-10 22:53:09,154 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:53:09,154 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:53:09,154 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:54:09,267 root : Server unavailable. Server time: 2019-11-10T20:54:09.223
+INFO 2019-11-10 22:54:09,267 root : Requested page : /health/
+INFO 2019-11-10 22:54:09,267 root : Response contains:
+INFO 2019-11-10 22:54:09,267 root : Key: date, Value: 2019-11-10T20:54:09.223
+INFO 2019-11-10 22:54:09,267 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:54:09,267 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:54:09,267 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:55:09,373 root : Server unavailable. Server time: 2019-11-10T20:55:09.332
+INFO 2019-11-10 22:55:09,381 root : Requested page : /health/
+INFO 2019-11-10 22:55:09,381 root : Response contains:
+INFO 2019-11-10 22:55:09,381 root : Key: date, Value: 2019-11-10T20:55:09.332
+INFO 2019-11-10 22:55:09,381 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:55:09,381 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:55:09,381 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:56:09,441 root : Server unavailable. Server time: 2019-11-10T20:56:09.399
+INFO 2019-11-10 22:56:09,441 root : Requested page : /health/
+INFO 2019-11-10 22:56:09,441 root : Response contains:
+INFO 2019-11-10 22:56:09,441 root : Key: date, Value: 2019-11-10T20:56:09.399
+INFO 2019-11-10 22:56:09,441 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:56:09,442 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:56:09,442 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:57:09,555 root : Server unavailable. Server time: 2019-11-10T20:57:09.511
+INFO 2019-11-10 22:57:09,555 root : Requested page : /health/
+INFO 2019-11-10 22:57:09,555 root : Response contains:
+INFO 2019-11-10 22:57:09,556 root : Key: date, Value: 2019-11-10T20:57:09.511
+INFO 2019-11-10 22:57:09,556 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:57:09,556 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:57:09,556 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:58:09,634 root : Server unavailable. Server time: 2019-11-10T20:58:09.588
+INFO 2019-11-10 22:58:09,635 root : Requested page : /health/
+INFO 2019-11-10 22:58:09,636 root : Response contains:
+INFO 2019-11-10 22:58:09,636 root : Key: date, Value: 2019-11-10T20:58:09.588
+INFO 2019-11-10 22:58:09,636 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:58:09,636 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:58:09,636 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 22:59:09,737 root : Server unavailable. Server time: 2019-11-10T20:59:09.694
+INFO 2019-11-10 22:59:09,738 root : Requested page : /health/
+INFO 2019-11-10 22:59:09,738 root : Response contains:
+INFO 2019-11-10 22:59:09,738 root : Key: date, Value: 2019-11-10T20:59:09.694
+INFO 2019-11-10 22:59:09,738 root : Key: current_page, Value: /health/
+INFO 2019-11-10 22:59:09,738 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 22:59:09,738 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:00:09,845 root : Server unavailable. Server time: 2019-11-10T21:00:09.804
+INFO 2019-11-10 23:00:09,846 root : Requested page : /health/
+INFO 2019-11-10 23:00:09,846 root : Response contains:
+INFO 2019-11-10 23:00:09,846 root : Key: date, Value: 2019-11-10T21:00:09.804
+INFO 2019-11-10 23:00:09,846 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:00:09,846 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:00:09,846 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:01:09,946 root : Server unavailable. Server time: 2019-11-10T21:01:09.901
+INFO 2019-11-10 23:01:09,946 root : Requested page : /health/
+INFO 2019-11-10 23:01:09,946 root : Response contains:
+INFO 2019-11-10 23:01:09,946 root : Key: date, Value: 2019-11-10T21:01:09.901
+INFO 2019-11-10 23:01:09,946 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:01:09,946 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:01:09,947 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:02:10,057 root : Server unavailable. Server time: 2019-11-10T21:02:10.013
+INFO 2019-11-10 23:02:10,057 root : Requested page : /health/
+INFO 2019-11-10 23:02:10,057 root : Response contains:
+INFO 2019-11-10 23:02:10,057 root : Key: date, Value: 2019-11-10T21:02:10.013
+INFO 2019-11-10 23:02:10,058 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:02:10,058 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:02:10,058 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:03:10,161 root : Server unavailable. Server time: 2019-11-10T21:03:10.119
+INFO 2019-11-10 23:03:10,162 root : Requested page : /health/
+INFO 2019-11-10 23:03:10,162 root : Response contains:
+INFO 2019-11-10 23:03:10,162 root : Key: date, Value: 2019-11-10T21:03:10.119
+INFO 2019-11-10 23:03:10,162 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:03:10,162 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:03:10,162 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:04:10,277 root : Server unavailable. Server time: 2019-11-10T21:04:10.229
+INFO 2019-11-10 23:04:10,277 root : Requested page : /health/
+INFO 2019-11-10 23:04:10,277 root : Response contains:
+INFO 2019-11-10 23:04:10,277 root : Key: date, Value: 2019-11-10T21:04:10.229
+INFO 2019-11-10 23:04:10,277 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:04:10,277 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:04:10,277 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:05:10,363 root : Server unavailable. Server time: 2019-11-10T21:05:10.317
+INFO 2019-11-10 23:05:10,364 root : Requested page : /health/
+INFO 2019-11-10 23:05:10,364 root : Response contains:
+INFO 2019-11-10 23:05:10,364 root : Key: date, Value: 2019-11-10T21:05:10.317
+INFO 2019-11-10 23:05:10,364 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:05:10,364 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:05:10,364 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:06:10,474 root : Server unavailable. Server time: 2019-11-10T21:06:10.431
+INFO 2019-11-10 23:06:10,481 root : Requested page : /health/
+INFO 2019-11-10 23:06:10,482 root : Response contains:
+INFO 2019-11-10 23:06:10,482 root : Key: date, Value: 2019-11-10T21:06:10.431
+INFO 2019-11-10 23:06:10,482 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:06:10,482 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:06:10,482 root : Key: client_info, Value: python-requests/2.22.0
+INFO 2019-11-10 23:07:10,593 root : Server unavailable. Server time: 2019-11-10T21:07:10.551
+INFO 2019-11-10 23:07:10,594 root : Requested page : /health/
+INFO 2019-11-10 23:07:10,594 root : Response contains:
+INFO 2019-11-10 23:07:10,594 root : Key: date, Value: 2019-11-10T21:07:10.551
+INFO 2019-11-10 23:07:10,594 root : Key: current_page, Value: /health/
+INFO 2019-11-10 23:07:10,594 root : Key: server_info, Value: {'system': 'Linux', 'node': 'bilevych-VirtualBox', 'release': '5.0.0-32-generic', 'version': '#34-Ubuntu SMP Wed Oct 2 02:06:48 UTC 2019', 'machine': 'x86_64', 'processor': 'x86_64'}
+INFO 2019-11-10 23:07:10,594 root : Key: client_info, Value: python-requests/2.22.0
