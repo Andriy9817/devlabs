@@ -1,0 +1,20 @@
+version: '3.7'
+services:
+  django:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: andriy9817/lab_4-example:monitoring
+    container_name: lab_4_django
+    networks:
+      - public
+    ports:
+      - 8000:8000
+
+volumes:
+  server-logs:
+    driver: local
+
+networks:
+  public:
+    driver: bridge
