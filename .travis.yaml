@@ -1,0 +1,40 @@
+language: python
+
+python:
+  - "3.7"
+
+jobs:
+  include:
+    - stage: "Build Lab 2."
+      name: "Run tests for Lab 2"
+      python: 3.7
+      install:
+        - cd ./lab_2/
+        - pipenv install
+      script: make test || true
+    - stage: "Build Lab 4."
+      name: "Build Docker images & Home task"
+      services:
+        - docker
+      install:
+        - cd ./lab_4/
+      script:
+        - docker build -t andriy9817/lab_4-example:django-travis .
+        - docker build -t andriy9817/lab_4-example:mon-travis --file Dockerfile.2 .
+        - docker images
+        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push andriy9817/lab_4-example:django-travis; docker push andriy9817/lab_4-example:mon-travis;  else echo "PR skip deploy"; fi
+    - stage: "Build Lab 5."
+      name: "Build and run Docker images via make"
+      services:
+        - docker
+      install:
+        - cd ./lab_5/
+        - make app
+        - make tests
+      script:
+        - make run
+        - make test-app
+        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; make docker-push; else echo "pull request is not for docker push"; fi
+branches:
+  only:
+    - master
