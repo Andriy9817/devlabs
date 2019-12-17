@@ -29,12 +29,9 @@ jobs:
         - docker
       install:
         - cd ./lab_5/
-        - make app
-        - make tests
       script:
         - make run
         - make tests
-        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; make docker-push; else echo "pull request is not for docker push"; fi
 branches:
   only:
     - master
