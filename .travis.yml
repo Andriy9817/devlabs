@@ -33,7 +33,7 @@ jobs:
         - make tests
       script:
         - make run
-        - make test-app
+        - make tests
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; make docker-push; else echo "pull request is not for docker push"; fi
 branches:
   only:
